@@ -10,7 +10,7 @@
 
 <br />
 
-## <a name="code-snippets">🕸️ Code Snippets</a>
+## <a name="anologiesandnotes">Anologies and Notes</a>
 
 <details>
 <summary><code>Docker Anologies</code></summary>
